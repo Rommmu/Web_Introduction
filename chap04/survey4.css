@@ -1,0 +1,26 @@
+
+body {
+    background-color: aliceblue;
+}
+h3 {
+    text-align: center;
+    color: brown;
+}
+p {
+    font-size: 1em;
+    text-indent: 1em;
+}
+section {
+    background-color: pink;
+}
+article {
+    color: blue;
+    text-indent: 1em;
+
+}
+footer {
+    border-radius: 50px;
+    background-color: orange;
+    font-size: 1em;
+    text-indent: 1em;
+}
